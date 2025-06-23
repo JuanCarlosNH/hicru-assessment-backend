@@ -6,6 +6,8 @@ WORKDIR /app
 # Copy your compiled Java application JAR file into the container
 COPY . .
 
+RUN chmod +x mvnw
+
 # Build the app
 RUN ./mvnw clean package -DskipTests
 
