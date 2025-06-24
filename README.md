@@ -1,4 +1,4 @@
-# hicru-assessment-backend
+# hikru-assessment-backend
 
 A RESTFul API for Create/Read/Update/Delete position from h2 database.
 
