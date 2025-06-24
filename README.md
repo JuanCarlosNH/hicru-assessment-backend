@@ -15,6 +15,11 @@ Local Development
 6. Export the project with your IDE
 7. Run the app with your IDE. The entry point of the app is the AssessmentApplication class. Location src/main/java/com.hikru.assessment/AssessmentApplication.java
 
+Development environment
+=======
+
+After pushing up new changes to master branch, those changes are going to deploy in Render
+
 End points
 ========
 
